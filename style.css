@@ -128,7 +128,7 @@ img {
 }
 
 .home-name {
-  color: rgb(187, 187, 51);
+  color: rgb(187, 51, 133);
   font-weight: bolder;
 }
 
@@ -137,7 +137,7 @@ img {
   padding: 2.5rem 0;
   font-size: 3rem;
   text-align: center;
-  text-shadow: 3px 2px 0px rgba(187, 187, 51, 1);
+  text-shadow: 3px 2px 0px rgb(255, 133, 206);
   font-weight: 700;
 }
 
@@ -238,7 +238,7 @@ img {
   margin: 1rem 2rem;
   padding: 0.5rem 1rem;
   font-size: 1.5rem;
-  background-color: rgb(124, 124, 47);
+  background-color: rgb(187, 51, 133);
   color: white;
 }
 
